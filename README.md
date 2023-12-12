@@ -9,3 +9,16 @@ customer informations, searching customer information based on their attributes,
 + Invoice UI has many functions as accessing data of customers and inventory, adding items to cart based on quantity from inventory,
 removing items to cart, calculating total price of cart, generating invoice with automatic generating id with information of customer and cart,...
 + All data as customer informations, inventory will be stored on external text file.
+
+Customer Data Management UI
+
+![image](https://github.com/khoamutou/grocery_store_management/assets/131346173/cb866201-51c0-471d-9c29-ec21d41a700c)
+
+Inventory Management UI
+
+![image](https://github.com/khoamutou/grocery_store_management/assets/131346173/c091fc7b-588a-4281-8fb1-0ee4fdf9cbbc)
+
+Cart and Invoices UI
+
+![image](https://github.com/khoamutou/grocery_store_management/assets/131346173/ccfc82aa-af20-4d5e-b0e0-c5c793863025)
+
